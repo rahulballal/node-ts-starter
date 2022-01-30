@@ -253,7 +253,7 @@ modules.xml
 
 # End of https://www.gitignore.io/api/vim,node,linux,macos,webstorm+all,visualstudiocode
 
-**/*/build/
+build/
 
 test-results/
 

@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "start": "nodemon --watch \"*.ts\" --exec \"ts-node\" ./src/index.ts",
-    "eslint:fix": "eslint --fix"
+    "eslint:fix": "eslint --fix",
+    "build": "tsc"
   },
   "devDependencies": {
     "@types/node": "^17.0.13",
