@@ -8,8 +8,8 @@ const statusIds = [uuid.v4(), uuid.v4(), uuid.v4()]
 const familyMembers = [
   { id: familyMemberIds[0], displayName: 'mom' },
   { id: familyMemberIds[1], displayName: 'dad' },
-  { id: familyMemberIds[2], displayName: 'mom' },
-  { id: familyMemberIds[3], displayName: 'mom' },
+  { id: familyMemberIds[2], displayName: 'son' },
+  { id: familyMemberIds[3], displayName: 'daughter' },
 ]
 
 const choreStatuses = [
